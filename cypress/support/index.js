@@ -19,6 +19,7 @@ import './commands'
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
 
+// This is only temporatory used for this code challenge - in real work environment, uncaught exception should be reported as a bug
 Cypress.on('uncaught:exception', (err, runnable) => {
     // returning false here prevents Cypress from
     // failing the test
