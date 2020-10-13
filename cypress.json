@@ -1,1 +1,6 @@
-{}
+{
+    "projectId": "f2xrqh",
+    "baseUrl": "https://qa-test.customer-frontend.staging.aspireapp.com",
+    "mobileOtp": "123456",
+    "emailOtp": "123456"
+}
